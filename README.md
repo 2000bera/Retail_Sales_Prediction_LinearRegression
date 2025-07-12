@@ -29,9 +29,8 @@ Matplotlib and Seaborn (for visualizations)
 
 Scikit-Learn (for Linear Regression and evaluation)
 
-- How to Run (Google Colab)
+## ✈ How to Run (Google Colab)
 
-## 🚀 How to Run (Google Colab)
 
 1. Open the project in GitHub.
    
