@@ -69,10 +69,12 @@ Score: 0.9994458527535016
 ## 📚 Learnings
 
 
-I learnt how to use Python libraries, the language, to understand the dataset more and how improved the model
+I learnt how to use Python libraries, the language, to understand the dataset more and how to improved the model
 
 ## 😥 Challenges
 
 
 Working with big data was bit confusing for me since I am still a beginner
+Cleaning the data
+Dropping columns
 
