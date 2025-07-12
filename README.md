@@ -6,9 +6,12 @@ Predict future sales based on past sales, advertising spend, and seasonal trends
 - Dataset
 
 
-- Tools Used
+- Tools Use and Libraries
 
 
+- How to Run (Google Colab)
+
+  
 - Results
 
 
