@@ -2,7 +2,9 @@
 
 ## Project Description:
   
-Predict future sales based on past sales, advertising spend, and seasonal trends
+Predict future sales based on past sales.
+
+South african dataset that based on wholesale trade sales for monthly starting from 2000-2025
 
 ## Dataset
   
@@ -67,7 +69,10 @@ Score: 0.9994458527535016
 ## 📚 Learnings
 
 
+I learnt how to use Python libraries, the language, to understand the dataset more and how improved the model
 
 ## 😥 Challenges
 
+
+Working with big data was bit confusing for me since I am still a beginner
 
