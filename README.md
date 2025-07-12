@@ -1,10 +1,10 @@
 # Retail_Sales_Prediction_LinearRegression
 
-- Project Description:
+## Project Description:
   
 Predict future sales based on past sales, advertising spend, and seasonal trends
 
-- Dataset
+## Dataset
   
  ISIbalo Data Portal
 
@@ -17,7 +17,7 @@ Predict future sales based on past sales, advertising spend, and seasonal trends
  
  Data - Wholesale Trade From 2000
 
-- Tools Use and Libraries
+## 🛠 Tools Use and Libraries
 
 Google Colab (Python environment)
 
@@ -44,15 +44,15 @@ Open in Colab:
 https://colab.research.google.com/drive/1G8MjNGFF3rlDvbuwrG9FTK297vZMp1zl#scrollTo=EuVZF6XeF-bp
 
   
-- Results
+## Results
 
 
-- Visuals
+## Visuals
 
 
-- Learnings
+## Learnings
 
 
-- Challenges
+## Challenges
 
 
