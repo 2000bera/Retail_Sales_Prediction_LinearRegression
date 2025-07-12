@@ -1,6 +1,23 @@
 # Retail_Sales_Prediction_LinearRegression
 
-Project Description:
+- Project Description:
 Predict future sales based on past sales, advertising spend, and seasonal trends
 
-Dataset
+- Dataset
+
+
+- Tools Used
+
+
+- Results
+
+
+- Visuals
+
+
+- Learnings
+
+
+- Challenges
+
+
