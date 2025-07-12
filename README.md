@@ -44,7 +44,7 @@ Open in Colab:
 https://colab.research.google.com/drive/1G8MjNGFF3rlDvbuwrG9FTK297vZMp1zl#scrollTo=EuVZF6XeF-bp
 
   
-## Results
+## 🔎 Results
 
 
 Mean square error: 296204167265.41986
@@ -58,15 +58,16 @@ Root mean square error: 544246.4214539402
 
 Score: 0.9994458527535016
 
-## Visuals
+## 📟 Visualization
 
 
 <img width="560" height="463" alt="LR" src="https://github.com/user-attachments/assets/5bc160b8-6e77-4856-b2cb-b8ac3d044fbc" />
 
 
-## Learnings
+## 📚 Learnings
 
 
-## Challenges
+
+## 😥 Challenges
 
 
