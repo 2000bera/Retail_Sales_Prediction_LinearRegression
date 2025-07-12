@@ -2,7 +2,7 @@
 
 - Project Description:
   
-  Predict future sales based on past sales, advertising spend, and seasonal trends
+Predict future sales based on past sales, advertising spend, and seasonal trends
 
 - Dataset
   
