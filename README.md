@@ -34,7 +34,7 @@ Scikit-Learn (for Linear Regression and evaluation)
 
 1. Open the project in GitHub.
    
-2. Click on the notebook in the `notebooks/` folder (e.g., `linear_regression_retail.ipynb`).
+2. Click on the notebook in the `notebooks/` folder and go to ``.
    
 3. Click the **"Open in Colab"** button at the top of the notebook (or use the link below).
 
