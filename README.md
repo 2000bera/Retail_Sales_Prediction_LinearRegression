@@ -75,6 +75,7 @@ I learnt how to use Python libraries, the language, to understand the dataset mo
 
 
 Working with big data was bit confusing for me since I am still a beginner
-Cleaning the data
-Dropping columns
 
+Cleaning the data
+
+Dropping columns
